@@ -12,3 +12,6 @@ dash_html_components
 -numpy
 -plotly
  python Main_App.py
+ 
+ 
+ *Disclaimer this code is only for the backend of the existing website*
